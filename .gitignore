@@ -1,0 +1,39 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env
+.env.*
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+
+# Local runtime outputs
+uploads/
+saved_enhanced_audio/
+enhanced_audio/
+reports/
+videos/
+*.log
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Large model and binary assets
+models/**/*.pth
+models/**/*.pt
+models/**/*.safetensors
+models/**/*.bin
+models/**/*.onnx
+models/**/*.h5
+*.zip
+*.tar
+*.gz
