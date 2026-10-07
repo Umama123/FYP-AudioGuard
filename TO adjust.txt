@@ -1,0 +1,4 @@
+92-94 training
+termanologies
+87 testing acuury , not big improvement . need more improvement
+real time samples

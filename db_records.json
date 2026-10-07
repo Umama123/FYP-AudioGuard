@@ -1,0 +1,656 @@
+{
+  "detections": [
+    {
+      "id": 1,
+      "filename": "LA_E_1000345.flac",
+      "status": "Real",
+      "confidence": 68.0,
+      "mode": "Single Upload",
+      "created_at": "2026-07-24T12:53:24.880647+00:00"
+    },
+    {
+      "id": 2,
+      "filename": "LA_E_1000166.flac",
+      "status": "Real",
+      "confidence": 45.0,
+      "mode": "Single Upload",
+      "created_at": "2026-07-25T22:19:58.176513+00:00"
+    },
+    {
+      "id": 3,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 88.07,
+      "mode": "Single Upload",
+      "created_at": "2026-07-25T23:45:16.255057+00:00"
+    },
+    {
+      "id": 4,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 91.03,
+      "mode": "Single Upload",
+      "created_at": "2026-07-25T23:46:50.773191+00:00"
+    },
+    {
+      "id": 5,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 88.07,
+      "mode": "Single Upload",
+      "created_at": "2026-07-26T14:35:20.055714+00:00"
+    },
+    {
+      "id": 6,
+      "filename": "LA_E_1000166.flac",
+      "status": "Deepfake",
+      "confidence": 80.01,
+      "mode": "Single Upload",
+      "created_at": "2026-07-26T17:43:15.600425+00:00"
+    },
+    {
+      "id": 7,
+      "filename": "LA_E_1000200.flac",
+      "status": "Real",
+      "confidence": 88.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-17T19:52:49.362912+00:00"
+    },
+    {
+      "id": 8,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T17:10:50.037904+00:00"
+    },
+    {
+      "id": 9,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 92.59,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T19:39:26.580868+00:00"
+    },
+    {
+      "id": 10,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 53.25,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T19:59:36.431483+00:00"
+    },
+    {
+      "id": 11,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 53.25,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T20:00:52.716287+00:00"
+    },
+    {
+      "id": 12,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 53.25,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T20:08:58.393588+00:00"
+    },
+    {
+      "id": 13,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 50.15,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T20:14:53.539400+00:00"
+    },
+    {
+      "id": 14,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-18T20:18:37.465381+00:00"
+    },
+    {
+      "id": 15,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-19T08:15:38.243135+00:00"
+    },
+    {
+      "id": 16,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-22T16:25:07.088074+00:00"
+    },
+    {
+      "id": 17,
+      "filename": "LA_E_1000166.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-22T16:38:24.798350+00:00"
+    },
+    {
+      "id": 18,
+      "filename": "test_sine.wav",
+      "status": "Authentic",
+      "confidence": 51.06,
+      "mode": "Single Upload",
+      "created_at": "2026-08-22T16:43:56.041672+00:00"
+    },
+    {
+      "id": 19,
+      "filename": "LA_E_1000450.flac",
+      "status": "Deepfake",
+      "confidence": 90.0,
+      "mode": "Single Upload",
+      "created_at": "2026-08-22T16:54:57.838812+00:00"
+    },
+    {
+      "id": 20,
+      "filename": "LA_E_1000580.flac",
+      "status": "Authentic",
+      "confidence": 52.18,
+      "mode": "Single Upload",
+      "created_at": "2026-08-22T19:03:31.589815+00:00"
+    },
+    {
+      "id": 21,
+      "filename": "LA_E_1000174.flac",
+      "status": "Authentic",
+      "confidence": 52.84,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T18:37:31.636314+00:00"
+    },
+    {
+      "id": 22,
+      "filename": "LA_E_1000200.flac",
+      "status": "Authentic",
+      "confidence": 52.94,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T18:37:31.659939+00:00"
+    },
+    {
+      "id": 23,
+      "filename": "LA_E_1000580.flac",
+      "status": "Deepfake",
+      "confidence": 50.42,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T20:23:01.061908+00:00"
+    },
+    {
+      "id": 24,
+      "filename": "LA_E_1000450.flac",
+      "status": "Deepfake",
+      "confidence": 51.4,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T20:27:47.336136+00:00"
+    },
+    {
+      "id": 25,
+      "filename": "LA_E_1000580.flac",
+      "status": "Deepfake",
+      "confidence": 55.32,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T20:48:01.401652+00:00"
+    },
+    {
+      "id": 26,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 55.34,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T20:59:29.830759+00:00"
+    },
+    {
+      "id": 27,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 55.34,
+      "mode": "Single Upload",
+      "created_at": "2026-08-23T21:06:10.133061+00:00"
+    },
+    {
+      "id": 28,
+      "filename": "LA_E_1000174.flac",
+      "status": "Authentic",
+      "confidence": 51.19,
+      "mode": "Single Upload",
+      "created_at": "2026-09-01T19:44:45.297279+00:00"
+    },
+    {
+      "id": 29,
+      "filename": "LA_E_1000048.flac",
+      "status": "Real",
+      "confidence": 51.17,
+      "mode": "Single Upload",
+      "created_at": "2026-09-01T19:57:48.402627+00:00"
+    },
+    {
+      "id": 30,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 53.58,
+      "mode": "Single Upload",
+      "created_at": "2026-09-02T17:48:48.931097+00:00"
+    },
+    {
+      "id": 31,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 53.58,
+      "mode": "Single Upload",
+      "created_at": "2026-09-02T18:19:31.066717+00:00"
+    },
+    {
+      "id": 32,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 51.67,
+      "mode": "Single Upload",
+      "created_at": "2026-09-02T18:39:53.194969+00:00"
+    },
+    {
+      "id": 33,
+      "filename": "LA_E_1000048.flac",
+      "status": "Real",
+      "confidence": 51.18,
+      "mode": "Single Upload",
+      "created_at": "2026-09-03T05:56:26.683199+00:00"
+    },
+    {
+      "id": 34,
+      "filename": "LA_E_1000166.flac",
+      "status": "Real",
+      "confidence": 52.21,
+      "mode": "Single Upload",
+      "created_at": "2026-09-26T09:57:38.179713+00:00"
+    },
+    {
+      "id": 35,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 52.74,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T13:09:32.176501+00:00"
+    },
+    {
+      "id": 36,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 55.5,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:26:07.064593+00:00"
+    },
+    {
+      "id": 37,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 55.5,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:26:38.378525+00:00"
+    },
+    {
+      "id": 38,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 55.5,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:27:44.007117+00:00"
+    },
+    {
+      "id": 39,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 52.59,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:32:22.052347+00:00"
+    },
+    {
+      "id": 40,
+      "filename": "LA_E_1000048.flac",
+      "status": "Deepfake",
+      "confidence": 52.22,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:33:21.270859+00:00"
+    },
+    {
+      "id": 41,
+      "filename": "LA_E_1000166.flac",
+      "status": "Deepfake",
+      "confidence": 52.38,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:33:38.789262+00:00"
+    },
+    {
+      "id": 42,
+      "filename": "LA_E_1000345.flac",
+      "status": "Deepfake",
+      "confidence": 52.46,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:35:06.151339+00:00"
+    },
+    {
+      "id": 43,
+      "filename": "LA_E_1000200.flac",
+      "status": "Deepfake",
+      "confidence": 52.33,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:46:25.321570+00:00"
+    },
+    {
+      "id": 44,
+      "filename": "LA_E_1000174.flac",
+      "status": "Deepfake",
+      "confidence": 52.59,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:46:26.636819+00:00"
+    },
+    {
+      "id": 45,
+      "filename": "LA_E_1000166.flac",
+      "status": "Deepfake",
+      "confidence": 52.38,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T14:46:26.663127+00:00"
+    },
+    {
+      "id": 46,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 50.97,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T17:52:29.598230+00:00"
+    },
+    {
+      "id": 47,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 59.26,
+      "mode": "Single Upload",
+      "created_at": "2026-09-27T18:02:08.042037+00:00"
+    },
+    {
+      "id": 48,
+      "filename": "LA_E_1000174.flac",
+      "status": "Real",
+      "confidence": 57.65,
+      "mode": "Single Upload",
+      "created_at": "2026-09-30T08:58:51.898522+00:00"
+    }
+  ],
+  "enhancements": [
+    {
+      "id": 1,
+      "filename": "LA_E_1000479.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-22T18:58:30.185374+00:00"
+    },
+    {
+      "id": 2,
+      "filename": "LA_E_1000048.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:10:12.294414+00:00"
+    },
+    {
+      "id": 3,
+      "filename": "dummy.wav",
+      "quality": 75,
+      "noise_reduction": 50,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:13:32.022821+00:00"
+    },
+    {
+      "id": 4,
+      "filename": "LA_E_1000450.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:17:53.496045+00:00"
+    },
+    {
+      "id": 5,
+      "filename": "LA_E_1000200.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:26:42.508861+00:00"
+    },
+    {
+      "id": 6,
+      "filename": "LA_E_1000345.flac",
+      "quality": 36,
+      "noise_reduction": 24,
+      "clarity_boost": 5,
+      "created_at": "2026-08-23T20:28:37.091258+00:00"
+    },
+    {
+      "id": 7,
+      "filename": "LA_E_1000580.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:35:22.991048+00:00"
+    },
+    {
+      "id": 8,
+      "filename": "LA_E_1000166.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:42:06.927952+00:00"
+    },
+    {
+      "id": 9,
+      "filename": "LA_E_1000345.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T20:46:43.045023+00:00"
+    },
+    {
+      "id": 10,
+      "filename": "LA_E_1000174.flac",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-08-23T21:10:08.600156+00:00"
+    },
+    {
+      "id": 11,
+      "filename": "watermarked_LA_E_1000345.flac.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:25:27.301591+00:00"
+    },
+    {
+      "id": 12,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:28:12.724873+00:00"
+    },
+    {
+      "id": 13,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:34:39.056872+00:00"
+    },
+    {
+      "id": 14,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:40:35.926544+00:00"
+    },
+    {
+      "id": 15,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:43:30.985981+00:00"
+    },
+    {
+      "id": 16,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T17:46:33.973758+00:00"
+    },
+    {
+      "id": 17,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-02T18:40:20.090768+00:00"
+    },
+    {
+      "id": 18,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-03T06:52:01.933673+00:00"
+    },
+    {
+      "id": 19,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-09-27T13:15:09.915537+00:00"
+    },
+    {
+      "id": 20,
+      "filename": "extremely_noisy_speech.wav",
+      "quality": 75,
+      "noise_reduction": 60,
+      "clarity_boost": 10,
+      "created_at": "2026-10-01T10:23:21.029625+00:00"
+    }
+  ],
+  "watermarks": [
+    {
+      "id": 1,
+      "filename": "LA_E_1000174.flac",
+      "secret_id": "watermark_1787518857400",
+      "created_at": "2026-08-23T21:01:28.234959+00:00"
+    },
+    {
+      "id": 2,
+      "filename": "LA_E_1000166.flac",
+      "secret_id": "21345",
+      "created_at": "2026-08-23T21:07:33.656217+00:00"
+    },
+    {
+      "id": 3,
+      "filename": "LA_E_1000048.flac",
+      "secret_id": "watermark_1788292862193",
+      "created_at": "2026-09-01T20:01:04.058627+00:00"
+    },
+    {
+      "id": 4,
+      "filename": "LA_E_1000345.flac",
+      "secret_id": "watermark_1788294825662",
+      "created_at": "2026-09-01T20:33:57.253829+00:00"
+    },
+    {
+      "id": 5,
+      "filename": "LA_E_1000345.flac",
+      "secret_id": "watermark_1788418210336",
+      "created_at": "2026-09-03T06:50:19.630265+00:00"
+    },
+    {
+      "id": 6,
+      "filename": "LA_E_1000166.flac",
+      "secret_id": "watermark_1790416506009",
+      "created_at": "2026-09-26T09:55:26.133952+00:00"
+    },
+    {
+      "id": 7,
+      "filename": "LA_E_1000174.flac",
+      "secret_id": "watermark_1790514763646",
+      "created_at": "2026-09-27T13:12:48.897503+00:00"
+    },
+    {
+      "id": 8,
+      "filename": "LA_E_1000166.flac",
+      "secret_id": "watermark_1790514804024",
+      "created_at": "2026-09-27T13:13:25.867273+00:00"
+    },
+    {
+      "id": 9,
+      "filename": "LA_E_1000048.flac",
+      "secret_id": "watermark_1790519734788",
+      "created_at": "2026-09-27T14:35:35.360328+00:00"
+    },
+    {
+      "id": 10,
+      "filename": "LA_E_1000166.flac",
+      "secret_id": "watermark_1790850090141",
+      "created_at": "2026-10-01T10:21:31.909515+00:00"
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "filename": "LA_E_1000200.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-08-23T18:37:49.265284+00:00"
+    },
+    {
+      "id": 2,
+      "filename": "LA_E_1000580.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-08-23T20:48:48.445276+00:00"
+    },
+    {
+      "id": 3,
+      "filename": "LA_E_1000200.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-08-23T21:00:12.708516+00:00"
+    },
+    {
+      "id": 4,
+      "filename": "LA_E_1000200.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-08-23T21:06:44.014908+00:00"
+    },
+    {
+      "id": 5,
+      "filename": "LA_E_1000345.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-09-02T17:49:40.415665+00:00"
+    },
+    {
+      "id": 6,
+      "filename": "LA_E_1000174.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-09-27T13:11:57.672037+00:00"
+    },
+    {
+      "id": 7,
+      "filename": "LA_E_1000174.flac",
+      "report_type": "Evidence Report",
+      "created_at": "2026-10-01T10:20:33.260189+00:00"
+    }
+  ]
+}

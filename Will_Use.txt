@@ -1,8 +1,8 @@
-Component      ,Technology          ,Role in AudioGuard
-Language       ,Python 3.10+        ,"Core AI, Backend, and Data Processing"
-Frontend       ,React + Vite        ,"Dashboard, Chatbot UI, and Waveform rendering"
-API Framework  ,FastAPI             ,High-speed communication between UI and AI models
-AI/ML          ,PyTorch / TensorFlow,Running the CNN Deepfake Classifier
-Database       ,MongoDB             ,Storing structured user data and logs
-Vector Store   ,Chroma DB           ,Storing embeddings for RAG and Chatbot KB
-File Storage   ,MinIO               ,Handling raw and processed audio/video files
+so basically 
+Change the regeneration module to the name enhancement
+Learn the difference between explainable ai and explainability
+check the ouput labels as well
+Regeneration you know check with noisy voicenote
+Watermarking cross check if its working correctly or not
+UI frontend adjustment
+Now what is band in this case what is it doing and remove the confidence score and add some metrics that do tell if its being watermarked or not?

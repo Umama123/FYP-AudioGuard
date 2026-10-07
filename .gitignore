@@ -37,3 +37,20 @@ models/**/*.h5
 *.zip
 *.tar
 *.gz
+
+# Node.js / Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+**/build/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.local
+
+# Scratch / temp files
+scratch/
+*.wav

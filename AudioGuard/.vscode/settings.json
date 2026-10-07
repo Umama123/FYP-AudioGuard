@@ -1,0 +1,8 @@
+{
+  "python.extraPaths": [
+    "./",
+    "./backend",
+    "./backend/deepfake_intel_v2",
+    "./deepfake_intel_v2"
+  ]
+}

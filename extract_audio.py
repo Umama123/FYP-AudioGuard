@@ -27,7 +27,7 @@ for filename in os.listdir(input_folder):
             video.audio.write_audiofile(mp3_path) # MP3 ke liye default codec kaam kar jayega
             
             video.close()
-            print(f"✅ Done: {filename}")
+            print(f" Done: {filename}")
             
         except Exception as e:
             print(f"❌ Error processing {filename}: {e}")

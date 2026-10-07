@@ -1,0 +1,19 @@
+.\env\Scripts\Activate.ps1
+then put this command in it:
+python app.py
+in the root project file 
+
+
+ then do this if it isnt working.
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+lastly try this put npm run.dev in frontend doc file.
+then do npm run dev
+
+python -m pip install google-generativeai
+python -m pip install librosa
+python -m pip install noisereduce
+
+Tip: For any future package installations in this specific virtual environment, remember to use python -m pip install <package> instead of just pip install <package>.
+
+return to app.py code block 91 cause it appears to be facing some idiotic issues.
